@@ -1,5 +1,10 @@
+import Header from '../components/Header'
+
 const About = () => (
-  <p>About Next.js</p>
+  <div>
+    <Header />
+    <p>About Next.js</p>
+  </div>
 )
 
 export default About
