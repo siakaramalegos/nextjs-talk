@@ -16,6 +16,17 @@ These are the code samples that I used in the talk. The `master` branch contains
 - `step-0`: Navigation
 - `step-0`: Loading data
 
+## Resources
+
+If you just want the list of resources to learn more, here they are:
+
+- About Next.js https://zeit.co/blog/next 
+- GitHub repo https://github.com/zeit/next.js/ 
+- Tutorial https://learnnextjs.com 
+- New version 3.0 details https://zeit.co/blog/next3 
+- “7 Principles of Rich Web Applications” by Guillermo Rauch, the inspiration for Next.js https://rauchg.com/2014/7-principles-of-rich-web-applications 
+
+
 ## Follow 
 
 Feel free to follow me on [Twitter](https://twitter.com/thegreengreek) and [Medium](https://medium.com/@thegreengreek)!
