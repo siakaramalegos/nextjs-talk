@@ -13,8 +13,9 @@ These are the code samples that I used in the talk. The `master` branch contains
 - `step-0`: Initializing a new Next.js application
 - `step-1`: Creating the index route and page
 - `step-2`: Creating additional routes and pages
-- `step-0`: Navigation
-- `step-0`: Loading data
+- `step-3`: Navigation
+- `step-4`: Loading data
+- `step-5`: Dynamic routes
 
 ## Resources
 
