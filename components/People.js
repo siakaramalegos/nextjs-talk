@@ -7,7 +7,7 @@ const People = ({people}) => {
 
     return (
       <li key={person.url}>
-        <Link href={`/character?id=${id}`}>
+        <Link as={`/character/${id}`} href={`/character?id=${id}`}>
           <a>{person.name}</a>
         </Link>
       </li>
