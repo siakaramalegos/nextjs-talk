@@ -4,11 +4,11 @@ Every user’s hardware is different, and processing speed can hinder user exper
 
 ## Slides
 
-You can find the slides from my talk [here](https://speakerdeck.com/siakaramalegos/universal-react-apps-using-next-dot-js)!
+You can find the slides from my React Next talk in Tel Aviv [here](). If you went to the Front-End Party meetup in New Orleans, those slightly different slides can be found [here](https://speakerdeck.com/siakaramalegos/universal-react-apps-using-next-dot-js)!
 
 ## Code Samples
 
-These are the code samples that I used in the talk. The `master` branch contains all the code, but you can also check out the `step-x` branches for each step presented:
+This repo contains the code samples that I used in the talk. The `master` branch contains all the code, but you can also check out the `step-x` branches for each step presented:
 
 - `step-0`: Initializing a new Next.js application
 - `step-1`: Creating the index route and page
@@ -16,6 +16,8 @@ These are the code samples that I used in the talk. The `master` branch contains
 - `step-3`: Navigation
 - `step-4`: Loading data
 - `step-5`: Dynamic routes
+- `step-6`: Route masking (client)
+- `step-7`: Route masking (server)
 
 ## Resources
 
