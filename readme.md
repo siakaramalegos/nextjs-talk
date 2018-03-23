@@ -4,11 +4,11 @@ Every user’s hardware is different, and processing speed can hinder user exper
 
 ## Slides
 
-You can find the slides from my React Next talk in Tel Aviv [here](https://speakerdeck.com/siakaramalegos/universal-react-apps-using-next-dot-js-from-react-next). If you went to the Front-End Party meetup in New Orleans, those slightly different slides can be found [here](https://speakerdeck.com/siakaramalegos/universal-react-apps-using-next-dot-js)!
+You can find the slides from my React Next talk at [JazzCon here](https://speakerdeck.com/siakaramalegos/universal-react-apps-using-next-dot-js-jazzcon), and in Tel Aviv [here](https://speakerdeck.com/siakaramalegos/universal-react-apps-using-next-dot-js-from-react-next). If you went to the Front-End Party meetup in New Orleans, those slightly different slides can be found [here](https://speakerdeck.com/siakaramalegos/universal-react-apps-using-next-dot-js)!
 
 ## Code Samples
 
-This repo contains the code samples that I used in the talk. The `master` branch contains all the code, but you can also check out the `step-x` branches for each step presented:
+This repo contains the code samples that I used in the talk, however it's for Next.js version 3 at the moment. I'll try updating it to version 4 soon.. The `master` branch contains all the code, but you can also check out the `step-x` branches for each step presented:
 
 - `step-0`: Initializing a new Next.js application
 - `step-1`: Creating the index route and page
