@@ -8,7 +8,7 @@ You can find the slides from my React Next talk at [JazzCon and React Dev Summit
 
 ## Code Samples
 
-This repo contains the code samples that I used in the talk, however it's for Next.js version 3 at the moment. I'll try updating it to version 4 soon.. The `master` branch contains all the code, but you can also check out the `step-x` branches for each step presented:
+This repo contains the code samples that I used in the talk. The `master` branch contains all the code, but you can also check out the `step-x` branches for each step presented:
 
 - `step-0`: Initializing a new Next.js application
 - `step-1`: Creating the index route and page
@@ -18,6 +18,8 @@ This repo contains the code samples that I used in the talk, however it's for Ne
 - `step-5`: Dynamic routes
 - `step-6`: Route masking (client)
 - `step-7`: Route masking (server)
+
+`step-8` upgraded to React 16 and Next.js 5.
 
 ## Resources
 
