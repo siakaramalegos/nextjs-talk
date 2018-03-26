@@ -4,7 +4,7 @@ Every user’s hardware is different, and processing speed can hinder user exper
 
 ## Slides
 
-You can find the slides from my React Next talk at [JazzCon here](https://speakerdeck.com/siakaramalegos/universal-react-apps-using-next-dot-js-jazzcon), and in Tel Aviv [here](https://speakerdeck.com/siakaramalegos/universal-react-apps-using-next-dot-js-from-react-next). If you went to the Front-End Party meetup in New Orleans, those slightly different slides can be found [here](https://speakerdeck.com/siakaramalegos/universal-react-apps-using-next-dot-js)!
+You can find the slides from my React Next talk at [JazzCon and React Dev Summit here](https://speakerdeck.com/siakaramalegos/universal-react-apps-using-next-dot-js-jazzcon), and in Tel Aviv at [React Next here](https://speakerdeck.com/siakaramalegos/universal-react-apps-using-next-dot-js-from-react-next). If you went to the Front-End Party meetup in New Orleans, those slightly different slides can be found [here](https://speakerdeck.com/siakaramalegos/universal-react-apps-using-next-dot-js)!
 
 ## Code Samples
 
